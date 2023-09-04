@@ -1,3 +1,5 @@
 fastqs,sample,library_type
 /data/reddylab/Alex/collab/20220523_Sean/data/sc_rna_seq/fastq/test,GEX_CRISPRa_D1,Gene Expression
+/data/reddylab/Alex/collab/20220523_Sean/data/sc_rna_seq/fastq/test,GEX_CRISPRi_D1,Gene Expression
 /data/reddylab/Alex/collab/20220523_Sean/data/sc_rna_seq/fastq/test,gRNA_CRISPRa_D1,CRISPR Guide Capture
+/data/reddylab/Alex/collab/20220523_Sean/data/sc_rna_seq/fastq/test,gRNA_CRISPRi_D1,CRISPR Guide Capture
