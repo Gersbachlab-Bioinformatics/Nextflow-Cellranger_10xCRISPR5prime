@@ -1,6 +1,6 @@
 # Nextflow-Cellranger_10xCRISPR5prime
-Nextflow Cell Ranger-based pipelines for Perturb-seq experiments
-We have implemented the changes needed to enable using the Cell Ranger package from 10X Genomics to process and create counts tables for transcriptomic gene expression (GEX) and gRNA sequencing data using Nextflow
+Nextflow Cell Ranger-based pipelines for Perturb-seq experiments.
+We have implemented the changes needed to enable using the Cell Ranger package from 10X Genomics to process and create counts tables for transcriptomic gene expression (GEX) and gRNA sequencing data.
 
 ## Input files
 - gene_exp_guide_lib.csv
