@@ -6,20 +6,16 @@ We have implemented the changes needed to enable using the Cell Ranger package f
 ## Software
 
 Nextflow version 23.04.1
-
 Cellranger-7.1.0
 
 ## Input files
-- gene_exp_guide_lib.csv
-  
+- gene_exp_guide_lib.csv 
 <img width="353" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/cf02af03-c968-4477-b303-bd668f292f4e">
 
-- guide_feature_reference.csv
-  
+- guide_feature_reference.csv 
 <img width="593" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/e2fab8e5-5ffc-4a5a-b172-cff3571333e7">
 
-- data
-  
+- data 
 <img width="264" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/92551277-7ce3-43d8-8648-eef757d92411">
 
 
