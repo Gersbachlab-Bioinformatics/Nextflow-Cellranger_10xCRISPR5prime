@@ -19,7 +19,7 @@ Cellranger-7.1.0
 - [`data`](data)
 <img width="800" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/92551277-7ce3-43d8-8648-eef757d92411">
 
-<img width="800" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/2cd55e59-f3d2-4e74-9630-df8b62402046">
+<img width="800" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/5f439e71-1338-4ae5-b755-9e58b4d4d826">
   
 ### Pipeline
 ```
