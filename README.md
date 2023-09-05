@@ -10,7 +10,8 @@ Cellranger-7.1.0
 
 ### Input files
 - [`gene_exp_guide_lib.csv`](gene_exp_guide_lib.csv)
-<img width="500" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/cf02af03-c968-4477-b303-bd668f292f4e">
+<img width="500" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/19511894-6fbd-4715-9ea3-dad2cbf7c2a3">
+
 
 - [`guide_feature_reference.csv`](guide_feature_reference.csv)
 <img width="800" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/e2fab8e5-5ffc-4a5a-b172-cff3571333e7">
