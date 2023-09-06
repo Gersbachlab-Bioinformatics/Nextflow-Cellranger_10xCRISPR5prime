@@ -8,6 +8,10 @@ Nextflow version 23.04.1
 
 Cellranger-7.1.0
 
+### Schema 
+<img width="558" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/ef1f9fdc-ded3-45ef-bf9c-8249af8af863">
+
+
 ### Input files
 - [`gene_exp_guide_lib.csv`](gene_exp_guide_lib.csv)
 <img width="500" alt="image" src="https://github.com/Gersbachlab-Bioinformatics/Nextflow-Cellranger_10xCRISPR5prime/assets/104788472/19511894-6fbd-4715-9ea3-dad2cbf7c2a3">
